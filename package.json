@@ -1,7 +1,7 @@
 {
   "name": "react-complete-guide",
   "version": "0.1.0",
-  "homepage": "https://MikeBurton89.github.io/expense_tracker.git",
+  "homepage": "http://MikeBurton89.github.io/expense_tracker.git",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
